@@ -2089,5 +2089,21 @@
       ],
       "director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"
     },
+                    {
+    "id": 105,
+    "name": "Hostel Daze",
+    "rating": 8.9,
+    "description": "Through the adventures of four friends 'Hostel Daze' captures what goes inside an engineering hostel in India.",
+    "category": ["Comedy", "Drama","Thriller"],
+    "platform": "Amazon Prime Video and Netflix",
+    "casting": {
+      "actors": [
+        "Adarsh Gourav",
+        "Nikhil Vijay",
+        "Shubham Gaur",
+        "Ahsaas Channa"
+      ],
+      "director": ["Raghav Subbu", "Amir Musanna", "Sangram Naiksatam"]
+    },
 
 ]
